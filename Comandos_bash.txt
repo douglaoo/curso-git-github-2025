@@ -1,0 +1,3 @@
+cd -> entra em um diretório
+ls -> mostra os arquivos e diretórios em uma pasta
+pwd -> mostra os caminhos para aquela pasta
