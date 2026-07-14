@@ -61,3 +61,6 @@ Téo Calvo
 ## Novo aluno 
 
 Doug, o estudante 
+
+Recomendo a pagina do mago:
+https://cursos.teomewhy.org/
