@@ -60,4 +60,4 @@ Téo Calvo
 
 ## Novo aluno 
 
-Doug
+Doug, o estudante 
