@@ -11,6 +11,8 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 Conheça nosso site: teomewhy.org
 
+Apoiem o curso, melhor curso da internet
+
 Apoie nosso projeto no Apoia-se
 
 ## Fluxo de trabalho Git local
@@ -64,3 +66,4 @@ Doug, o estudante
 
 Recomendo a pagina do mago:
 https://cursos.teomewhy.org/
+
